@@ -21,3 +21,5 @@ To develop a CNN Based application to provide educational assistance to visually
 * Collect a dataset of Braille characters and perform necessary pre-processing to improve image quality, addressing the lighting and orientation variations, and ensuring uniform labeling for accurate recognition.
 * Develop a CNN based model to effectively recognize and interpret Braille Characters.
 * Integrate the developed CNN based model into the web application, enabling real-time and accurate recognition of Braille characters to enhance the educational experience for visually impaired learners.
+
+
